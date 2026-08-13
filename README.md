@@ -425,6 +425,4 @@ Project ini menunjukkan penerapan proses analisis data menggunakan Python, mulai
 Fokus utama project adalah menghasilkan pemahaman yang terstruktur mengenai karakteristik workforce dan pola hubungan antarvariabel berdasarkan data yang tersedia.
 
 
-#Documentation
-
-[Documentation.pdf].(./documentation/Documentation.pdf)
+[View Documentation](documentation.pdf)
