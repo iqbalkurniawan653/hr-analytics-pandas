@@ -52,9 +52,9 @@ Variabel tersebut memungkinkan analisis workforce dari beberapa perspektif, sepe
 ## Tools
 
 - **Python**
-  - **Pandas**
-  - **Matplotlib**
-  - **Seaborn**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
 - **Microsoft Power BI**
 
 Pandas digunakan sebagai tool utama untuk data inspection, data quality assessment, data preparation, dan exploratory analysis. Matplotlib dan Seaborn digunakan untuk visualisasi selama proses analisis, sedangkan Power BI digunakan untuk menyajikan hasil analisis dalam bentuk interactive dashboard.
